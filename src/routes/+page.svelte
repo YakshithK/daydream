@@ -534,51 +534,63 @@
 					<div class="grid gap-2 relative z-10">
 						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
 							<span class="font-bold flex items-center gap-2"><span class="text-lg">🚪</span> Doors open & Check-in</span>
-							<span class="bg-[#E472AB] text-white px-3 py-1 rounded-full text-sm font-bold">Saturday 1:00 PM</span>
+							<span class="bg-[#E472AB] text-white px-3 py-1 rounded-full text-sm font-bold">Saturday 10:00 AM</span>
 						</div>
 						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
 							<span class="font-bold flex items-center gap-2"><span class="text-lg">🎉</span> Opening ceremony</span>
-							<span class="bg-[#639DEB] text-white px-3 py-1 rounded-full text-sm font-bold">2:00 PM</span>
+							<span class="bg-[#639DEB] text-white px-3 py-1 rounded-full text-sm font-bold">10:30 AM</span>
 						</div>
 						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
 							<span class="font-bold flex items-center gap-2"><span class="text-lg">⚡</span> Start building your game!</span>
-							<span class="bg-[#F2993E] text-white px-3 py-1 rounded-full text-sm font-bold">2:30 PM</span>
+							<span class="bg-[#F2993E] text-white px-3 py-1 rounded-full text-sm font-bold">11:00 AM</span>
 						</div>
 						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
 							<span class="font-bold flex items-center gap-2"><span class="text-lg">📚</span> Workshop: Game Design Basics</span>
-							<span class="bg-[#AB68E2] text-white px-3 py-1 rounded-full text-sm font-bold">4:00 PM</span>
+							<span class="bg-[#AB68E2] text-white px-3 py-1 rounded-full text-sm font-bold">1:00 PM</span>
 						</div>
 						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
-							<span class="font-bold flex items-center gap-2"><span class="text-lg">🍽️</span> Dinner</span>
-							<span class="bg-[#E472AB] text-white px-3 py-1 rounded-full text-sm font-bold">6:00 PM</span>
+							<span class="font-bold flex items-center gap-2"><span class="text-lg">🍽️</span> Lunch</span>
+							<span class="bg-[#E472AB] text-white px-3 py-1 rounded-full text-sm font-bold">3:00 PM</span>
 						</div>
 						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
 							<span class="font-bold flex items-center gap-2"><span class="text-lg">🎨</span> Workshop: Art & Sound for Games</span>
-							<span class="bg-[#639DEB] text-white px-3 py-1 rounded-full text-sm font-bold">8:00 PM</span>
+							<span class="bg-[#639DEB] text-white px-3 py-1 rounded-full text-sm font-bold">5:00 PM</span>
 						</div>
 						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
-							<span class="font-bold flex items-center gap-2"><span class="text-lg">🌙</span> Late night coding & pizza</span>
-							<span class="bg-[#F2993E] text-white px-3 py-1 rounded-full text-sm font-bold">11:00 PM</span>
+							<span class="font-bold flex items-center gap-2"><span class="text-lg">🍽️</span> Dinner</span>
+							<span class="bg-[#F2993E] text-white px-3 py-1 rounded-full text-sm font-bold">7:00 PM</span>
 						</div>
 						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
-							<span class="font-bold flex items-center gap-2"><span class="text-lg">🎊</span> Midnight surprise activity</span>
-							<span class="bg-[#AB68E2] text-white px-3 py-1 rounded-full text-sm font-bold">12:00 AM</span>
+							<span class="font-bold flex items-center gap-2"><span class="text-lg">🌙</span> Evening coding & snacks</span>
+							<span class="bg-[#AB68E2] text-white px-3 py-1 rounded-full text-sm font-bold">8:30 PM</span>
 						</div>
 						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
-							<span class="font-bold flex items-center gap-2"><span class="text-lg">🌅</span> Breakfast</span>
-							<span class="bg-[#E472AB] text-white px-3 py-1 rounded-full text-sm font-bold">Sunday 8:00 AM</span>
+							<span class="font-bold flex items-center gap-2"><span class="text-lg">🚪</span> Doors open & Check-in</span>
+							<span class="bg-[#E472AB] text-white px-3 py-1 rounded-full text-sm font-bold">Sunday 10:00 AM</span>
 						</div>
 						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
-							<span class="font-bold flex items-center gap-2"><span class="text-lg">✨</span> Final polish time</span>
-							<span class="bg-[#639DEB] text-white px-3 py-1 rounded-full text-sm font-bold">10:00 AM</span>
+							<span class="font-bold flex items-center gap-2"><span class="text-lg">🍽️</span> Breakfast</span>
+							<span class="bg-[#639DEB] text-white px-3 py-1 rounded-full text-sm font-bold">10:30 AM</span>
+						</div>
+						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
+							<span class="font-bold flex items-center gap-2"><span class="text-lg">✨</span> Continue building & polish time</span>
+							<span class="bg-[#F2993E] text-white px-3 py-1 rounded-full text-sm font-bold">11:00 AM</span>
+						</div>
+						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
+							<span class="font-bold flex items-center gap-2"><span class="text-lg">📚</span> Workshop: Final touches & optimization</span>
+							<span class="bg-[#AB68E2] text-white px-3 py-1 rounded-full text-sm font-bold">1:00 PM</span>
+						</div>
+						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
+							<span class="font-bold flex items-center gap-2"><span class="text-lg">🍽️</span> Lunch</span>
+							<span class="bg-[#E472AB] text-white px-3 py-1 rounded-full text-sm font-bold">3:00 PM</span>
 						</div>
 						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
 							<span class="font-bold flex items-center gap-2"><span class="text-lg">🎤</span> Project demos & judging</span>
-							<span class="bg-[#F2993E] text-white px-3 py-1 rounded-full text-sm font-bold">12:00 PM</span>
+							<span class="bg-[#639DEB] text-white px-3 py-1 rounded-full text-sm font-bold">5:00 PM</span>
 						</div>
 						<div class="flex justify-between items-center bg-white/50 rounded-lg p-3 border border-[#DEB887]">
 							<span class="font-bold flex items-center gap-2"><span class="text-lg">🏆</span> Closing ceremony & prizes</span>
-							<span class="bg-[#AB68E2] text-white px-3 py-1 rounded-full text-sm font-bold">1:30 PM</span>
+							<span class="bg-[#F2993E] text-white px-3 py-1 rounded-full text-sm font-bold">7:00 PM</span>
 						</div>
 					</div>
 				</div>
