@@ -91,10 +91,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 
-[data-cy="input-component"],
-div:has(> div > [data-cy="select-value-container"]),
-.ant-picker,
-#react-select-2-live-region + span + div, .PhoneInputCountry, .PhoneInputInput {
+[data-cy="input-component"], div:has(> div > [data-cy="select-value-container"]), .ant-picker {
   background-color: #fffef2;
   border-color: rgba(211, 177, 128,0.5);
   border-radius: 0px;
@@ -134,10 +131,4 @@ button {
 
 a {
   color: #548abb;
-}
-
-/* make the 'Thank You' text use the header font */
-.fillout-field-thank-you > div > div > div:not(.mt-\[3px\]) p {
-  font-family: 'Expensify New Kansas', ui-serif, serif !important;
-  font-style: italic;
 }
